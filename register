@@ -35,7 +35,7 @@
           return liff.getProfile();
         } else {
           liff.login({
-            redirectUri: "https://register.esksrrkhcchant1.repl.co", //เปลี่ยนเป็น URL ที่สร้าง replit
+            redirectUri: "https://ptgmk.github.io/Ptgmktimetickerin.github.io/", //เปลี่ยนเป็น URL ที่สร้าง replit
           });
         }
       })
